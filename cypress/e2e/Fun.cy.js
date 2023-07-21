@@ -17,7 +17,7 @@ describe('OrangeHRM', () => {
  
   // it('Admin',()=>{
   //   cy.visit('');
-  //   cy.Orangelgin('Admin','admin123');
+  //   cy.Orangelogin('Admin','admin123');
 
   //   examplePage.getsidePanel().contains('Admin').click();
   //   examplePage.getpageHeading()
